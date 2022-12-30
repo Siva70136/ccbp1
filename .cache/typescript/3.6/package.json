@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.624"
+  },
+  "devDependencies": {
+    "@types/d": "^1.0.1",
+    "@types/mess": "^0.1.29"
+  }
+}
